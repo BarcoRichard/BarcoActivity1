@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BarcoActivity1/static/css/main.39410bc1.css",
+    "main.js": "/BarcoActivity1/static/js/main.f39bea04.js",
+    "static/js/787.bc7d429a.chunk.js": "/BarcoActivity1/static/js/787.bc7d429a.chunk.js",
+    "index.html": "/BarcoActivity1/index.html",
+    "main.39410bc1.css.map": "/BarcoActivity1/static/css/main.39410bc1.css.map",
+    "main.f39bea04.js.map": "/BarcoActivity1/static/js/main.f39bea04.js.map",
+    "787.bc7d429a.chunk.js.map": "/BarcoActivity1/static/js/787.bc7d429a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39410bc1.css",
+    "static/js/main.f39bea04.js"
+  ]
+}
